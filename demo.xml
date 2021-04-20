@@ -1,0 +1,27 @@
+<odoo>
+
+        <record model="ras_project.project" id="project1">
+            <field name="name">Project One</field>
+            <field name="description">Projects One's description
+            </field>
+            <field name="start_date">2020-01-01</field>
+            <field name="end_date">2020-02-01</field>
+        </record>
+
+        <record model="ras_project.project" id="project2">
+            <field name="name">Project Two</field>
+            <field name="description">Projects Two's description
+            </field>
+            <field name="start_date">2020-01-15</field>
+            <field name="end_date">2020-02-15</field>
+        </record>
+
+        <record model="ras_project.project" id="project3">
+            <field name="name">Project Three</field>
+            <field name="description">Projects Three's description
+            </field>
+            <field name="start_date">2020-02-15</field>
+            <field name="end_date">2020-03-15</field>
+        </record>
+
+</odoo>
